@@ -1,0 +1,16 @@
+{
+  "slug": "SimpleSaturator",
+  "name": "SimpleSaturator",
+  "version": "2.0.0",
+  "license": "MIT",
+  "brand": "SimpleSaturator",
+  "author": "Greg Zanchelli",
+  "authorEmail": "zanchelli.greg@gmail.com",
+  "authorUrl": "github.com/gregzanch",
+  "pluginUrl": "",
+  "manualUrl": "",
+  "sourceUrl": "github.com/gregzanch/SimpleSaturator",
+  "donateUrl": "",
+  "changelogUrl": "",
+  "modules": []
+}
