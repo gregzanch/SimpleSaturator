@@ -12,5 +12,16 @@
   "sourceUrl": "github.com/gregzanch/SimpleSaturator",
   "donateUrl": "",
   "changelogUrl": "",
-  "modules": []
+  "modules": [
+    {
+      "slug": "Basic",
+      "name": "Basic",
+      "description": "Basic Saturation",
+      "tags": [
+        "Distortion",
+        "Effect",
+        "Limiter"
+      ]
+    }
+  ]
 }
